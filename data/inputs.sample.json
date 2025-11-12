@@ -1,0 +1,28 @@
+{
+  "url": "https://www.facebook.com/real.dylan.thibert/",
+  "maxItems": 20,
+  "seedFollowers": [
+    {
+      "id": "100048901720805",
+      "image": "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-1/452259439_1050399956600052_989624445967281558_n.jpg",
+      "title": "Janet Alabi",
+      "subtitle_text": "Lancaster, Pennsylvania",
+      "url": "https://www.facebook.com/janet.alabi.37819",
+      "friendship_status": "CAN_REQUEST",
+      "gender": "FEMALE",
+      "name": "Janet Alabi",
+      "short_name": "Janet"
+    },
+    {
+      "id": "100093221100654",
+      "image": "https://scontent-ams4-1.xx.fbcdn.net/profile.jpg",
+      "title": "Louis Park",
+      "subtitle_text": "Berlin, Germany",
+      "url": "facebook.com/louis.park.522",
+      "friendship_status": "UNKNOWN",
+      "gender": null,
+      "name": "Louis Park",
+      "short_name": "Louis"
+    }
+  ]
+}
